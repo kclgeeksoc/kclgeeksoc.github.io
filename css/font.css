@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'geeksoc';
+    src: url('josefinsans-italic-webfont.eot');
+    src: url('josefinsans-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('josefinsans-italic-webfont.woff') format('woff'),
+         url('josefinsans-italic-webfont.ttf') format('truetype'),
+         url('josefinsans-italic-webfont.svg#josefin_sansitalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+@font-face {
+    font-family: 'geeksoc';
+    src: url('josefinsans-regular-webfont.eot');
+    src: url('josefinsans-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('josefinsans-regular-webfont.woff') format('woff'),
+         url('josefinsans-regular-webfont.ttf') format('truetype'),
+         url('josefinsans-regular-webfont.svg#josefin_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'geeksoc';
+    src: url('josefinsans-semibold-webfont.eot');
+    src: url('josefinsans-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('josefinsans-semibold-webfont.woff') format('woff'),
+         url('josefinsans-semibold-webfont.ttf') format('truetype'),
+         url('josefinsans-semibold-webfont.svg#josefin_sanssemibold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
