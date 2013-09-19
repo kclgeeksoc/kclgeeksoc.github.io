@@ -3,7 +3,7 @@ function get_content() {
     var current_page = window.location.pathname;
     var url_structure = current_page.split("/");
     url_structure.shift();  // Remove the empty first element
-    var page_to_load = "posts/404.md";
+    var page_to_load = null
     if (url_structure.length == 2 && url_structure[0] == "posts") {
         console.log("Found post url");
         var post_name = url_structure[1];
@@ -17,6 +17,16 @@ function get_content() {
                 break;
             }
         }
+    }
+    if (page_to_load == null) {
+        for (var redirect in site_data["redirects"]) {
+            if (current_page.match(redirect["from"])) {
+                window.location.replace(redirect["to"]);
+            }
+        }
+    }
+    if (page_to_load == null) {
+        page_to_load = "posts/404.md";
     }
     $.ajax(page_to_load, {"success": function (data, a, b) {
         $("#article").html(markdown.toHTML(data));
