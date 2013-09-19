@@ -1,1 +1,3 @@
-We're Geeksoc, a group at KCL for people who want to meet and hang out with others who share geeky interests. We have events for RPGs, board games and science fiction and fantasy fans, but every other type of geek is welcome.
+Geeksoc is a student society at King's College London. We run [events][events] where people can meet and do geeky things with others who share their interests. Our events tend to include role play games, board games, and thigns related to science fiction and fantasy.
+
+[events]: /events
