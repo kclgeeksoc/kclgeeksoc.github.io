@@ -1,3 +1,6 @@
+Events
+======
+
 Pub Quiz
 --------
 
