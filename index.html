@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>KCL GeekSoc</title>
+    <script src="js/jquery-1.10.2.min.js"></script><!-- jQuery -->
+    <script src="js/markdown.min.js"></script><!-- markdown -->
+    <script src="posts/posts.js"></script><!-- posts -->
+    <script src="js/hemaeus.js"></script><!-- Custom JS -->
+    <link rel="stylesheet" href="css/font.css">
+    <link rel="stylesheet" href="css/design.css">
+</head>
+<body>
+<div id="wrapper">
+    <div id="background">
+        <div id="sheet">
+            <img src="img/geeksoc-logo.png">
+            <h2 id="tagline">Kings College London Geek Society</h2>
+            <div id="nav" class="clear"></div>
+            <div id="events">Loading Events...</div>
+            <div id="article"><p>Loading Content...</p></div>
+        </div>
+    </div>
+    <script>
+        var taglines = [
+                "Kings College London Geek Society",
+                "Myths and Legends Winners at the 2013 Student Nationals",
+                "Governance by Nerf Duel Since 2013",
+                "Spending too much on Dice, Year after Year",
+                "Powered by Caffeine",
+        ];
+        $("#tagline").text(taglines[Math.floor(Math.random()*taglines.length)]);
+        get_navigation();
+        get_events(10);
+        get_content();
+    </script>
+</div>
+</body>
+</html>
