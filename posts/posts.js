@@ -11,7 +11,11 @@ var site_data = {
         {
             "name": "About",
             "source": "posts/about.md"
-        }
+        },
+        {
+            "name": "Events",
+            "source": "posts/events.md"
+        },
     ],
     "events": [
         {
