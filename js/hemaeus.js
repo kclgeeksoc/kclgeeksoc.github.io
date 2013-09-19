@@ -9,7 +9,13 @@ function get_content() {
         var post_name = url_structure[1];
         // Get and show the post
     } else if (url_structure.length == 1) {
-        // Get and show the appropriate page
+        for (var page in site_data["pages"]) {
+            page = site_data["pages"][page];
+            if (encodeURIComponent(page["name"].toLowerCase()) + ".html" == page) {
+                page_to_load = page["source"];
+                break;
+            }
+        }
     }
     $.ajax(page_to_load, {"success": function (data, a, b) {
         $("#article").html(markdown.toHTML(data));
