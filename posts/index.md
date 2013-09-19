@@ -1,1 +1,1 @@
-This is geeksoc!
+We're Geeksoc, a group at KCL for people who want to meet and hang out with others who share geeky interests. We have events for RPGs, board games and science fiction and fantasy fans, but every other type of geek is welcome.
