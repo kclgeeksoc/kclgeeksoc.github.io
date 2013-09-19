@@ -15,7 +15,7 @@ function get_content() {
         console.log("Found page url");
         for (var page in site_data["pages"]) {
             page = site_data["pages"][page];
-            if (encodeURIComponent(page["name"].toLowerCase()) + ".html" == url_structure[0]) {
+            if (encodeURIComponent(page["uri"]) == url_structure[0]) {
                 page_to_load = page["source"];
                 break;
             }
@@ -30,7 +30,7 @@ function get_navigation() {
     var nav = "<a href='/'>Home</a>";
     for (var page in site_data["pages"]) {
         page = site_data["pages"][page];
-        nav += " | <a href='/" + encodeURIComponent(page["name"].toLowerCase()) + ".html'>" + page["name"] + "</a>";
+        nav += " | <a href='/" + encodeURIComponent(page["uri"]) + "'>" + page["name"] + "</a>";
     }
     $("#nav").html(nav);
 }
