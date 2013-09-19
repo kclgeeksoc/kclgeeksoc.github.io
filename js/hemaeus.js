@@ -28,7 +28,8 @@ function get_navigation() {
 function get_events(number) {
     $("#events").html("<h3>Upcoming Events:</h3>" +
         "<ul class='unbulleted'>" +
-        "<li>No Events :(</li>" +
+        "<li>Coming Soon!</li>" +
+        "<li>See Flyers For Details!</li>" +
         "</ul>");  // Fetch all the events, and return [number] events that are in the future
 }
 
