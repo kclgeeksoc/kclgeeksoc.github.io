@@ -12,7 +12,7 @@ function get_content() {
         console.log("Found page url");
         for (var page in site_data["pages"]) {
             page = site_data["pages"][page];
-            if (page["uri"] == current_page) {
+            if (encodeURI(page["uri"]) == current_page) {
                 page_to_load = page["source"];
                 break;
             }
@@ -27,7 +27,7 @@ function get_navigation() {
     var nav = "";
     for (var page in site_data["pages"]) {
         page = site_data["pages"][page];
-        nav += " | <a href='" + page["uri"] + "'>" + page["name"] + "</a>";
+        nav += " | <a href='" + encodeURI(page["uri"]) + "'>" + page["name"] + "</a>";
     }
     $("#nav").html(nav);
 }
