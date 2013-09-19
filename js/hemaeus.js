@@ -18,13 +18,13 @@ function get_content() {
             }
         }
     }
-    /*if (page_to_load == null) {
+    if (page_to_load == null) {
         for (var redirect in site_data["redirects"]) {
             if (current_page.match(redirect["from"])) {
                 window.location.replace(redirect["to"]);
             }
         }
-    }*/
+    }
     if (page_to_load == null) {
         page_to_load = "posts/404.md";
     }
