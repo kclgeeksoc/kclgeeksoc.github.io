@@ -22,7 +22,7 @@ function get_content() {
         for (var redirect in site_data["redirects"]) {
             redirect = site_data["redirects"][redirect]
             if (current_page.match(redirect["from"])) {
-                window.location.replace(redirect["to"]);
+                window.location.replace(encodeURI(redirect["to"]));
             }
         }
     }
