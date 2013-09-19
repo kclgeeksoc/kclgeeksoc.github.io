@@ -27,7 +27,7 @@ function get_content() {
         }
     }
     if (page_to_load == null) {
-        page_to_load = "posts/404.md";
+        page_to_load = "/posts/404.md";
     }
     $.ajax(page_to_load, {"success": function (data, a, b) {
         $("#article").html(markdown.toHTML(data));
