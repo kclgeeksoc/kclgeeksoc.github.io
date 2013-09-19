@@ -10,14 +10,17 @@ var site_data = {
     "pages": [
         {
             "name": "About",
+            "uri": "about",
             "source": "posts/about.md"
         },
         {
             "name": "Events",
+            "uri": "events",
             "source": "posts/events.md"
         },
         {
             "name": "Fresher's Role Play",
+            "uri": "freshers-role-play",
             "source": "posts/freshers-role-play.md"
         }
     ],
