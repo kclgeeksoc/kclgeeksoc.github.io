@@ -16,6 +16,10 @@ var site_data = {
             "name": "Events",
             "source": "posts/events.md"
         },
+        {
+            "name": "Fresher's Role Play",
+            "source": "posts/freshers-role-play.md"
+        }
     ],
     "events": [
         {
