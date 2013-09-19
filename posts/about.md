@@ -1,7 +1,7 @@
 About GeekSoc
 -------------
 
-Geeksoc is a student society at King's College London. We run [events][events] where people can meet and do geeky things with other who share their interests.
+Geeksoc is a student society at King's College London. We run [events][events] where people can meet and do geeky things with others who share their interests.
 
 [events]: /events
 
