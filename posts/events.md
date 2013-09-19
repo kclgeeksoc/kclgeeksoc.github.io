@@ -1,5 +1,6 @@
 Events
 ======
+Geeksoc runs events throught the year, as well as special introductory events aimed at new members.
 
 Pub Quiz
 --------
