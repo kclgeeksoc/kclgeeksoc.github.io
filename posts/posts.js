@@ -5,7 +5,7 @@ var site_data = {
             "source": "posts/dummy.md",
             "author": "A. Writer",
             "data": "1990-06-14"
-        }
+        },
     ],
     "pages": [
         {
@@ -33,13 +33,13 @@ var site_data = {
         {
             "from": "/forum/.*",
             "to": "/"
-        }
+        },
     ],
     "events": [
         {
             "name": "Pub Quiz",
             "tagline": "The annual geeksoc pub quiz",
             "date": "2013-09-25"
-        }
+        },
     ]
 };
