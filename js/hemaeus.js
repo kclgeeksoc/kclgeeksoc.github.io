@@ -4,18 +4,15 @@ function get_content() {
     var url_structure = current_page.split("/");
     url_structure.shift();  // Remove the empty first element
     var page_to_load = "posts/404.md";
-    if (current_page == "/" || current_page == "/index.html") {
-        console.log("Found index url");
-        page_to_load = "/posts/index.md";
-    } else if (url_structure.length == 2 && url_structure[0] == "posts") {
+    if (url_structure.length == 2 && url_structure[0] == "posts") {
         console.log("Found post url");
         var post_name = url_structure[1];
         // Get and show the post
-    } else if (url_structure.length == 1) {
+    } else {
         console.log("Found page url");
         for (var page in site_data["pages"]) {
             page = site_data["pages"][page];
-            if (encodeURIComponent(page["uri"]) == url_structure[0]) {
+            if (encodeURIComponent(page["uri"]) == current_page) {
                 page_to_load = page["source"];
                 break;
             }
@@ -30,7 +27,7 @@ function get_navigation() {
     var nav = "<a href='/'>Home</a>";
     for (var page in site_data["pages"]) {
         page = site_data["pages"][page];
-        nav += " | <a href='/" + encodeURIComponent(page["uri"]) + "'>" + page["name"] + "</a>";
+        nav += " | <a href='" + encodeURIComponent(page["uri"]) + "'>" + page["name"] + "</a>";
     }
     $("#nav").html(nav);
 }
