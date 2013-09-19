@@ -16,10 +16,5 @@ Devon Buchanan (treasurer)
 Contact Us
 ----------
 
-<p>
-<script type="text/javascript">
-	document.write("Rznvy <n uers=\"znvygb:xpytrrxfbp@tznvy.pbz\" ery=\"absbyybj\">xpytrrxfbp@tznvy.pbz</n><oe/>".replace(/[a-zA-Z]/g, 
-	function(c){return String.fromCharCode((c<="Z"?90:122)>=(c=c.charCodeAt(0)+13)?c:c-26);})");
-</script>
-Facebook: <a href="https://www.facebook.com/groups/kclgeeksoc">https://www.facebook.com/groups/kclgeeksoc</a>
-</p>
+Email: [kclgeeksoc@gmail.com](mailto:kclgeeksoc@gmail.com)  
+Facebook: [https://www.facebook.com/groups/kclgeeksoc](https://www.facebook.com/groups/kclgeeksoc)
