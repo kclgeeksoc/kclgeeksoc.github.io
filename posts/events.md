@@ -36,7 +36,7 @@ Board games
 Sunday fortnightly.  
 (29 Sep, 13, 27 October, 10, 24 November and 8 December.)  
 2 – 7 pm.  
-Activity Rooms, Boland House, Guy’s Campus.
+Activity Room 4, Boland House, Guy’s Campus.
 
 Book club
 ---------
