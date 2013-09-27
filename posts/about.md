@@ -10,7 +10,7 @@ How to Join Us
 
 All of the events run by GeekSoc are open to everybody, and most of them are free. This is regardless of whether you are a student at King's College London, or whether you are a member of GeekSoc. Please come along!
 
-Though it's not needed to attend any of our events, we encourage you to become a member of GeekSoc. If you are a student at KCL this involves paying £6.00 to KCLSU, which you can do [here][kclsu-page]. People who are not KCL students cannot become members in the same way. The benefits of becoming a member are:
+Though it's not needed to attend any of our events, we encourage you to become a member of GeekSoc if you are a student at KCL. This involves paying £6.00 to KCLSU, which you can do [here][kclsu-page]. People who are not KCL students cannot become members in the same way. The benefits of becoming a member are:
 
 - You pay less to get into the few events we charge for.
 - You can stand and vote in the committee elections at the end of the year.
