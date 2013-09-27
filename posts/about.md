@@ -30,13 +30,14 @@ Devon Buchanan (treasurer)
 Contact Us
 ----------
 
-Email: [kclgeeksoc@gmail.com](mailto:kclgeeksoc@gmail.com)  
-Facebook: [https://www.facebook.com/groups/kclgeeksoc](https://www.facebook.com/groups/kclgeeksoc)  
-Mailing list: [sign up here](http://eepurl.com/FHl_1)  
-Address:  
-KCL GeekSoc  
-KCLSU Student Centre  
-Macadam Building  
-Surrey St  
-London  
-WC2R 2NS
+Discuss geeky things in [our Facebook group](https://www.facebook.com/groups/kclgeeksoc).  
+Ask the committee question by emailing [kclgeeksoc@gmail.com](mailto:kclgeeksoc@gmail.com).  
+Receive announcement by [subscribing to our mailing list](http://eepurl.com/FHl_1).  
+Our address is:
+
+> KCL GeekSoc  
+> KCLSU Student Centre  
+> Macadam Building  
+> Surrey St  
+> London  
+> WC2R 2NS
