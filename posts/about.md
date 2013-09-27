@@ -8,7 +8,7 @@ Geeksoc is a student society at King's College London. We run [events][events] w
 How to Join Us
 --------------
 
-Most of the events run by GeekSoc are free and open to everybody, regardless of whether you are a student at King's College London, or whether you are a member of GeekSoc. Please come along!
+All of the events run by GeekSoc are open to everybody, and most of them are free. This is regardless of whether you are a student at King's College London, or whether you are a member of GeekSoc. Please come along!
 
 Though it's not needed to attend any of our events, we encourage you to become a member of GeekSoc. If you are a student at KCL this involves paying £6.00 to KCLSU, which you can do [here][kclsu-page]. People who are not KCL students cannot become members in the same way. The benefits of becoming a member are:
 
