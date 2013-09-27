@@ -32,7 +32,7 @@ Contact Us
 
 Email: [kclgeeksoc@gmail.com](mailto:kclgeeksoc@gmail.com)  
 Facebook: [https://www.facebook.com/groups/kclgeeksoc](https://www.facebook.com/groups/kclgeeksoc)  
-Mailing list: [sign up here](http://eepurl.com/FHl_1)
+Mailing list: [sign up here](http://eepurl.com/FHl_1)  
 Address:  
 KCL GeekSoc  
 KCLSU Student Centre  
