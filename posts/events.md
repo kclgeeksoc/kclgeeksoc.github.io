@@ -41,8 +41,8 @@ Activity Room 4, Boland House, Guy’s Campus.
 Book club
 ---------
 
-Sunday every four weeks.  
-(13 October, 10 November and 8 December.)  
+Some Sundays.  
+(20 October - discussing "John Dies at the End" by David Wong, 10 November and 8 December.)  
 12 noon – 1 pm.  
 Meet at the entrance to Boland House, Guy’s Campus.
 
