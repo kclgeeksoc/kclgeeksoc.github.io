@@ -2,20 +2,6 @@ Events
 ======
 Geeksoc runs events throught the year, as well as special introductory events aimed at new members.
 
-Pub Quiz
---------
-
-Wednesday 25 September  
-From 5 pm, quiz starting 6 pm.  
-Penderel’s Oak, High Holborn.
-
-Geek tour of London
--------------------
-
-Wednesday 2 October  
-2 – 5 pm.  
-Penderel’s Oak, High Holborn.
-
 Pubmeets
 --------
 
