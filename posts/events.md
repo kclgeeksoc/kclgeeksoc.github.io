@@ -9,13 +9,6 @@ Every Wednesday.
 From 5 pm. 
 Penderel’s Oak, High Holborn.
 
-Freshers’ role play games
--------------------------
-
-Wednesday 2, 9, 16 and 23 October.  
-6 – 10 pm.  
-Penderel’s Oak, High Holborn.
-
 Board games
 -----------
 
