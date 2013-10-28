@@ -22,11 +22,6 @@ var site_data = {
             "name": "Events",
             "uri": "/events",
             "source": "posts/events.md"
-        },
-        {
-            "name": "Fresher's Role Play",
-            "uri": "/freshers-role-play",
-            "source": "posts/freshers-role-play.md"
         }
     ],
     "redirects": [
