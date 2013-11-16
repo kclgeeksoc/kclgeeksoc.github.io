@@ -21,7 +21,7 @@ Book club
 ---------
 
 Some Sundays.  
-(10 November - dicsussing "Burning Chrome" by William Gibson - and 8 December.)  
+(17 November - dicsussing "Burning Chrome" by William Gibson - and 8 December.)  
 12 noon – 1 pm.  
 Meet at the entrance to Boland House, Guy’s Campus.
 
