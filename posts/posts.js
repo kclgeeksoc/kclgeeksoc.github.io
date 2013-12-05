@@ -25,8 +25,8 @@ var site_data = {
         },
 	{
 	    "name": "Roleplay Nationals",
-	    "uri": "/roleplay-nationals",
-	    "source": "posts/roleplay-nationals.md"
+	    "uri": "/roleplaying-nationals",
+	    "source": "posts/roleplaying-nationals.md"
 	}
     ],
     "redirects": [
