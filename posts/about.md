@@ -17,10 +17,14 @@ Though it's not needed to attend any of our events, we encourage you to become a
 - The society is given some of the money you pay to KCLSU, which funds our activities.
 - The society can continue existing if at least 25 people to sign up as members each year.
 
+If you are a KCL student membership costs £6.00 which you can pay through the KCL Student Union at this [web page][membership-page] or in person at [KCLSU student centres][student-centres].
+
+If you are not a KCL student you will first have to get associate membership of KCL Student Union for £15.00 with [this form][associate-form], then pay £6.00 through this [web page][membership-page] or in person at [KCLSU student centres][student-centres].
+
 [membership-page]: http://www.kclsu.org/organisation/geeksoc/
+[student-centres]: http://www.kclsu.org/contactus/
 [associate-form]: http://www.kclsu.org/pageassets/membership/Associate-Membership-Form_Sept13.pdf
 
-If you are a KCL student membership costs £6.00 which you can pay through the KCL Student Union [here][membership-page]. If you are not a KCL student you can get associate membership for £15.00 with [this form][associate-form] from the KCL Student Union.
 
 The Committee
 -------------
