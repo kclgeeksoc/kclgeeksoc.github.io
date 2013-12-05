@@ -23,7 +23,7 @@ body, html {
     margin: 50px auto;
 }
 #article {
-    text-align: justify;
+    text-align: left;
     padding: 10px;
 }
 .clear {
