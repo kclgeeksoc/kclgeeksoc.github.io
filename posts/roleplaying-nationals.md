@@ -27,8 +27,8 @@ The £20 sign-up fee must reach us by the 11th of December because the organiser
 You can pay in the following ways:
 
 - Cash. Give the money to a committee member and they'll give you a receipt.
-- Cheque. Hand this to a committee member. Make it payable to "KCLSU", with "Geek Society, 162" written on the back.
-- Bank transfer. To account: 22521526, sort code: 56-00-13 with a reference including "Geek Society, 162".
+- Cheque. Hand this to a committee member. Make it payable to "KCLSU", with "Geeksoc 162" written on the back.
+- Bank transfer. To account: 22521526, sort code: 56-00-13 with a reference including your surname and "Geeksoc 162".
 
 What else do I need to know?
 ----------------------------
