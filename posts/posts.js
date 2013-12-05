@@ -22,7 +22,12 @@ var site_data = {
             "name": "Events",
             "uri": "/events",
             "source": "posts/events.md"
-        }
+        },
+	{
+	    "name": "Roleplay Nationals",
+	    "uri": "/roleplay-nationals",
+	    "source": "posts/roleplay-nationals.md"
+	}
     ],
     "redirects": [
         {
