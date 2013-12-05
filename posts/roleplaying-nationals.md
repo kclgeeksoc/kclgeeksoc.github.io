@@ -6,8 +6,6 @@ What is it?
 
 The Student Nationals is a nation-wide get together of university student roleplayers, wargamers and... whatever the collective noun for people who play card games is. We spent a weekend meeting new people then playing games with them. The event is being held on 11th-13th April 2014 at Leicester University. For more information see the [Student Nationals information pack][information-pack].
 
-Please note that just like Geeksoc, the Student Nationals wants everybody who attends to enjoy themselves, and as such has a code of conduct. This is available on page 9 of the [information pack][information-pack]. Anybody violating this code of conduct will not be permitted to attend.
-
 How do I sign up?
 -----------------
 
@@ -32,7 +30,12 @@ You can pay in the following ways:
 - Cheque. Hand this to a committee member. Make it payable to "KCLSU", with "Geek Society, 162" written on the back.
 - Bank transfer. To account: 22521526, sort code: 56-00-13 with a reference including "Geek Society, 162".
 
-Please note that entry fees are non-refundable after the 11th of December. Monies paid towards transport and accommodation are non-refundable upon receipt. Non-payment of fees towards transport and accommodation will result in you not being permitted to attend.
+What else do I need to know?
+----------------------------
+
+Please note that just like Geeksoc, the Student Nationals wants everybody who attends to enjoy themselves, and as such has a code of conduct. This is available on page 9 of the [information pack][information-pack]. Anybody violating this code of conduct will not be permitted to attend.
+
+Also note that entry fees are non-refundable after the 11th of December. Monies paid towards transport and accommodation are non-refundable upon receipt. Non-payment of fees towards transport and accommodation will result in you not being permitted to attend.
 
 [information-pack]: https://jumpshare.com/v/csymqm9lUAo8RU4pg6uQ?b=9sgU1dGfNw01z5XvZsa6
 [sign-up]: https://docs.google.com/forms/d/1ElZN4ISjh-y_Swh17kh4p_6ZLlpB5ZuaY9Qt0TkeIhE/viewform
