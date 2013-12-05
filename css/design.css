@@ -22,11 +22,6 @@ body, html {
     width: 900px;
     margin: 50px auto;
 }
-#events {
-    width: 200px;
-    margin: 10px;
-    float: right;
-}
 #article {
     text-align: justify;
     padding: 10px;

@@ -43,14 +43,6 @@ function get_navigation() {
     $("#nav").html(nav);
 }
 
-function get_events(number) {
-    $("#events").html("<h3>Upcoming Events:</h3>" +
-        "<ul class='unbulleted'>" +
-        "<li>Coming Soon!</li>" +
-        "<li>See Flyers For Details!</li>" +
-        "</ul>");  // Fetch all the events, and return [number] events that are in the future
-}
-
 /**
  * Protect window.console method calls, e.g. console is not defined on IE
  * unless dev tools are open, and IE doesn't define console.debug
