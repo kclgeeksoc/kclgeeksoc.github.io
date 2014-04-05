@@ -2,6 +2,14 @@ Events
 ======
 Geeksoc runs events throught the year, as well as special introductory events aimed at new members.
 
+Queer geek culture discussion
+-----------------------------
+
+A discussion about non-normative gender and sexuality in geeky media and environments.  
+Thursday 13th January.  
+6:30 - 8:30 pm.  
+K3.11, Strand Campus.
+
 Pubmeets
 --------
 
