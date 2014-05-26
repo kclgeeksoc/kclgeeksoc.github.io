@@ -29,6 +29,6 @@ Film night
 ----------
 
 Friday fortnightly  
-4 April, 9, 23 May, 1 June  
+4 April, 9, 23 May, 6 June  
 6 – 10 pm  
 Main entrance to the Strand campus
